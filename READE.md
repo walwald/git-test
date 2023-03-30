@@ -1,4 +1,4 @@
-#Git command 정리
+# Git command 정리
 
 - `git init`
   > 현재 위치한 디렉토리에서 git 관리를 시작한다는 명령어. 초기화를 뜻하기도 한다.    
